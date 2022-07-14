@@ -3,7 +3,7 @@
 
 <p>I' am a software engineer who has expertise in front-end development. I have really good knowledge of Javascript and React, I have chewed over and I got all under the hood concepts about them. Quality, low cognitive complexity, maintenance,
 the foresight on the development process is important principles during project development for me. I' am always keeping up with new technologies and chasing, striving to be a better front-end developer. <strong>I hope our paths crossed will. All the best!</strong>  </p>
-
+<a href="https://www.linkedin.com/in/kkaanbayram">Linkedin</a>
 <!--
 
 
