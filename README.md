@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42271504/178856089-77061b5d-8fc2-4312-b373-c08cd606a50e.png" width=120px  height=140px>
 
 <p>I' am a software engineer who has expertise in front-end development. I have really good knowledge of Javascript and React, I have chewed over and I got all under the hood concepts about them. Quality, low cognitive complexity, maintenance,
-the foresight on the development process is important principles during project development for me. I' am always keeping up with new technologies and chasing, striving to be a better front-end developer. <strong>I hope our paths crossed will. All the best!</strong>  </p>
+the foresight on the development process is important principles during project development for me. I' am always keeping up with new technologies and chasing, striving to be a better developer. <strong>I hope our paths crossed will. All the best!</strong>  </p>
 <a href="https://www.linkedin.com/in/kkaanbayram">Linkedin</a>
 <!--
 
